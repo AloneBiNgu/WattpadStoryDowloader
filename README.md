@@ -1,8 +1,8 @@
 # Wattpad Story Downloader
 
 ## Hướng dẫn sử dụng
-1. Tải về và giải nén thư mục **Wattpad Story Downloader-win32-x64**.
-2. Mở thư mục đã giải nén và click vào file **Wattpad Story Downloader** để khởi chạy ứng dụng.
+1. Tải về và vào thư mục **Wattpad Story Downloader-win32-x64**.
+2. Click vào file **Wattpad Story Downloader.exe** để khởi chạy ứng dụng.
 
 🎉 Vậy là bạn đã sẵn sàng sử dụng ứng dụng để tải truyện từ Wattpad rồi!
 
